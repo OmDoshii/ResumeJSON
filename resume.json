@@ -1,0 +1,122 @@
+{
+    "name": "Om Doshi",
+    "contact_info": {
+      "phone": "+91 8421865093",
+      "email": "omdoshi108@gmail.com",
+      "github": "https://github.com/OmDoshii",
+      "linkedin": "https://www.linkedin.com/in/om-doshi-556b98227/",
+      "leetcode": "https://leetcode.com/u/OmDoshi/"
+    },
+    "roles_looking_for": [
+      "Software Developer",
+      "Data Science",
+      "Data Analyst",
+      "Machine/Deep Learning",
+      "AI Engineer"
+    ],
+    "education": [
+      {
+        "institution": "Vishwakarma Institute of Information Technology",
+        "degree": "B.Tech in Electronics and Telecommunication Engineering",
+        "date": "12/2021 - Present",
+        "cgpa": 8.48
+      },
+      {
+        "institution": "Shivaji University (SGM College, Karad)",
+        "degree": "Maharashtra State Board of Higher Secondary Education",
+        "date": "05/2019 - 05/2021",
+        "percentage": 95.5
+      }
+    ],
+    "courses": [
+      "Signals and Linear System",
+      "Object Oriented Programming",
+      "Data Structure",
+      "Design and Analysis of Algorithms",
+      "Operating System"
+    ],
+    "technical_skills": {
+      "programming_languages": ["Python", "Core Java", "HTML/CSS"],
+      "technologies": ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing"],
+      "frameworks_and_tools": ["LLM", "TensorFlow", "Transformer", "OpenCV", "Flask", "GitHub", "MS Office/Excel", "PowerBI"],
+      "other_skills": ["Data Analytics", "Prompting", "Linux OS", "Problem Solving", "IoT", "Product Management"]
+    },
+    "projects": [
+      {
+        "name": "SpeechMood Analyzer",
+        "technologies": ["NLP", "Speech recognition", "Hugging Face"],
+        "link": "https://github.com/OmDoshii/MoodSpeech-Analyzer",
+        "date": "06/2024-07/2024",
+        "details": [
+          "Developed and deployed a real-time emotion detection app using speech recognition and the Hugging Face base model.",
+          "Achieved an emotion recognition accuracy of 91% with the pre-trained model for real-time analysis.",
+          "Contributed knowledge in integrating speech recognition with advanced NLP models and creating interactive applications using Streamlit."
+        ]
+      },
+      {
+        "name": "Autosprout",
+        "technologies": ["ESP8266", "Front-end technologies", "Python Flask"],
+        "link": "https://github.com/OmDoshii/AutoSprout",
+        "date": "01/2024-05/2024",
+        "details": [
+          "Built smart irrigation system with ESP8266 for Wi-Fi, enabling remote soil moisture monitoring and control.",
+          "Designed web UI with HTML/CSS for real-time soil moisture data and Python Flask for remote irrigation control.",
+          "Grid-based design ensures thorough coverage and effective water distribution.",
+          "Oversaw all project phases, from hardware selection and sensor integration to web application development and deployment."
+        ]
+      },
+      {
+        "name": "Emotion Recognition System",
+        "technologies": ["Computer vision", "CNN"],
+        "link": "https://github.com/OmDoshii/Emotion_Recognition",
+        "date": "08/2023-12/2023",
+        "details": [
+          "Engineered Emotion Recognition System with Machine Learning and Deep Learning, enhancing user experience through real-time emotion analysis.",
+          "The image classification model achieved an overall accuracy of 59.79% on the test set.",
+          "The class-wise accuracy varied widely, with the highest accuracy for happy faces (81.44%) and the lowest for disgusted faces (54.05%).",
+          "The model also achieved a precision of 61.73%, a recall of 59.79%, and an F1 score of 60.02%."
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Research Publication at National Conference",
+        "topic": "Automatic Irrigation System Using IoT",
+        "date": "Feb 2024",
+        "details": "Published a research paper titled 'Automatic Irrigation System using IoT' in Springer. Presented at the National Conference on Recent Technologies & Innovations in Electronics & Photonics, hosted by MIT World Peace University in collaboration with the Department of Scientific & Industrial Research, Govt. of India on Feb 9th and 10th, 2024."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Google Cloud Data Analytics",
+        "issuer": "Google",
+        "status": "Ongoing",
+        "details": "Developing Expertise in Cloud Data Analytics: Coursework in Data Management, Transformation, and Visualization."
+      },
+      {
+        "title": "Artificial Intelligence Micro-Certification (AIC)",
+        "issuer": "Product School",
+        "date": "July 2024",
+        "details": "Course includes Product Design i.e. AI-Native UX, Architecture AI User flow and LLM Powered Product management ways."
+      },
+      {
+        "title": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+        "issuer": "Microsoft",
+        "date": "Feb 2024",
+        "details": "Course covers GenAI prompts, ML algorithms, ethics, and career essentials in generative AI."
+      },
+      {
+        "title": "Core Java & MySQL",
+        "issuer": "Core2Web Technologies",
+        "date": "Nov 2022",
+        "details": "Core2Web’s Core Java course covers basics to advanced concepts, fostering a solid understanding of OOP."
+      }
+    ],
+    "co-curricular_activities": [
+      {
+        "role": "Batch Representative",
+        "details": "Represented a group of students in Department, exhibiting leadership & concise communication skills."
+      }
+    ]
+  }
+  
